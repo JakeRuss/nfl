@@ -1,0 +1,513 @@
+"boxscore.id","game.date","game.time","game.stadium","game.city","espn.id.away","espn.id.home","team.score.away","team.score.home","attendance"
+"330905007","September 5, 2013","8:30 PM ET","Sports Authority Field at Mile High","Denver, CO ","BAL","DEN",27,49,76977
+"330908002","September 8, 2013","1:00 PM ET","Ralph Wilson Stadium","Buffalo, NY ","NE","BUF",23,21,69519
+"330908003","September 8, 2013","1:00 PM ET","Soldier Field","Chicago, IL ","CIN","CHI",21,24,62213
+"330908005","September 8, 2013","1:00 PM ET","FirstEnergy Stadium","Cleveland, OH ","MIA","CLE",23,10,62461
+"330908006","September 8, 2013","8:30 PM ET","AT&T Stadium","Arlington, TX ","NYG","DAL",31,36,85348
+"330908008","September 8, 2013","1:00 PM ET","Ford Field","Detroit, MI ","MIN","DET",24,34,62461
+"330908011","September 8, 2013","1:00 PM ET","Lucas Oil Stadium","Indianapolis, IN ","OAK","IND",17,21,65412
+"330908014","September 8, 2013","4:25 PM ET","Edward Jones Dome","Saint Louis, MO ","ARI","STL",24,27,55279
+"330908018","September 8, 2013","1:00 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","ATL","NO",17,23,72348
+"330908020","September 8, 2013","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","TB","NYJ",17,18,76957
+"330908023","September 8, 2013","1:00 PM ET","Heinz Field","Pittsburgh, PA ","TEN","PIT",16,9,61585
+"330908025","September 8, 2013","4:25 PM ET","Candlestick Park","San Francisco, CA ","GB","SF",28,34,69732
+"330908029","September 8, 2013","1:00 PM ET","Bank of America Stadium","Charlotte, NC ","SEA","CAR",12,7,73294
+"330908030","September 8, 2013","1:00 PM ET","EverBank Field","Jacksonville, FL ","KC","JAX",28,2,59416
+"330909024","September 9, 2013","10:25 PM ET","Qualcomm Stadium","San Diego, CA ","HOU","SD",31,28,59522
+"330909028","September 9, 2013","6:55 PM ET","FedEx Field","Landover, MD ","PHI","WSH",33,27,82743
+"330912017","September 12, 2013","8:25 PM ET","Gillette Stadium","Foxboro, MA ","NYJ","NE",10,13,68756
+"330915001","September 15, 2013","1:00 PM ET","Georgia Dome","Atlanta, GA ","STL","ATL",24,31,70056
+"330915002","September 15, 2013","1:00 PM ET","Ralph Wilson Stadium","Buffalo, NY ","CAR","BUF",23,24,67819
+"330915003","September 15, 2013","1:00 PM ET","Soldier Field","Chicago, IL ","MIN","CHI",30,31,62181
+"330915009","September 15, 2013","1:00 PM ET","Lambeau Field","Green Bay, WI ","WSH","GB",20,38,78020
+"330915011","September 15, 2013","1:00 PM ET","Lucas Oil Stadium","Indianapolis, IN ","MIA","IND",24,20,65406
+"330915012","September 15, 2013","1:00 PM ET","Arrowhead Stadium","Kansas City, MO ","DAL","KC",16,17,76592
+"330915013","September 15, 2013","4:25 PM ET","O.co Coliseum","Oakland, CA ","JAX","OAK",9,19,49400
+"330915019","September 15, 2013","4:25 PM ET","MetLife Stadium","East Rutherford, NJ ","DEN","NYG",41,23,81285
+"330915021","September 15, 2013","1:00 PM ET","Lincoln Financial Field","Philadelphia, PA ","SD","PHI",33,30,69144
+"330915022","September 15, 2013","4:05 PM ET","U of Phoenix Stadium","Glendale, AZ ","DET","ARI",21,25,60034
+"330915026","September 15, 2013","8:30 PM ET","CenturyLink Field","Seattle, WA ","SF","SEA",3,29,68338
+"330915027","September 15, 2013","4:05 PM ET","Raymond James Stadium","Tampa, FL ","NO","TB",16,14,60870
+"330915033","September 15, 2013","1:00 PM ET","M&T Bank Stadium","Baltimore, MD ","CLE","BAL",6,14,71098
+"330915034","September 15, 2013","1:00 PM ET","NRG Stadium","Houston, TX ","TEN","HOU",24,30,71718
+"330916004","September 16, 2013","8:30 PM ET","Paul Brown Stadium","Cincinnati, OH ","PIT","CIN",10,20,64585
+"330919021","September 19, 2013","8:25 PM ET","Lincoln Financial Field","Philadelphia, PA ","KC","PHI",26,16,69144
+"330922004","September 22, 2013","1:00 PM ET","Paul Brown Stadium","Cincinnati, OH ","GB","CIN",30,34,64633
+"330922006","September 22, 2013","1:00 PM ET","AT&T Stadium","Arlington, TX ","STL","DAL",7,31,80848
+"330922010","September 22, 2013","1:00 PM ET","LP Field","Nashville, TN ","SD","TEN",17,20,69143
+"330922015","September 22, 2013","4:05 PM ET","Sun Life Stadium","Miami, FL ","ATL","MIA",23,27,70660
+"330922016","September 22, 2013","1:00 PM ET","Mall of America Field","Minneapolis, MN ","CLE","MIN",31,27,63672
+"330922017","September 22, 2013","1:00 PM ET","Gillette Stadium","Foxboro, MA ","TB","NE",3,23,68756
+"330922018","September 22, 2013","1:00 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","ARI","NO",7,31,73057
+"330922020","September 22, 2013","4:25 PM ET","MetLife Stadium","East Rutherford, NJ ","BUF","NYJ",20,27,76597
+"330922023","September 22, 2013","8:30 PM ET","Heinz Field","Pittsburgh, PA ","CHI","PIT",40,23,61575
+"330922025","September 22, 2013","4:25 PM ET","Candlestick Park","San Francisco, CA ","IND","SF",27,7,69732
+"330922026","September 22, 2013","4:25 PM ET","CenturyLink Field","Seattle, WA ","JAX","SEA",17,45,68087
+"330922028","September 22, 2013","1:00 PM ET","FedEx Field","Landover, MD ","DET","WSH",27,20,80111
+"330922029","September 22, 2013","1:00 PM ET","Bank of America Stadium","Charlotte, NC ","NYG","CAR",0,38,73748
+"330922033","September 22, 2013","1:00 PM ET","M&T Bank Stadium","Baltimore, MD ","HOU","BAL",9,30,71168
+"330923007","September 23, 2013","8:30 PM ET","Sports Authority Field at Mile High","Denver, CO ","OAK","DEN",21,37,76978
+"330926014","September 26, 2013","8:25 PM ET","Edward Jones Dome","Saint Louis, MO ","SF","STL",35,11,56640
+"330929001","September 29, 2013","8:30 PM ET","Georgia Dome","Atlanta, GA ","NE","ATL",30,23,70744
+"330929002","September 29, 2013","1:00 PM ET","Ralph Wilson Stadium","Buffalo, NY ","BAL","BUF",20,23,68296
+"330929005","September 29, 2013","1:00 PM ET","FirstEnergy Stadium","Cleveland, OH ","CIN","CLE",6,17,71481
+"330929007","September 29, 2013","4:25 PM ET","Sports Authority Field at Mile High","Denver, CO ","PHI","DEN",20,52,77002
+"330929008","September 29, 2013","1:00 PM ET","Ford Field","Detroit, MI ","CHI","DET",32,40,64552
+"330929010","September 29, 2013","4:05 PM ET","LP Field","Nashville, TN ","NYJ","TEN",13,38,69143
+"330929012","September 29, 2013","1:00 PM ET","Arrowhead Stadium","Kansas City, MO ","NYG","KC",7,31,73386
+"330929013","September 29, 2013","4:25 PM ET","O.co Coliseum","Oakland, CA ","WSH","OAK",24,14,53549
+"330929016","September 29, 2013","1:00 PM ET","Wembley Stadium","London ","PIT","MIN",27,34,83518
+"330929024","September 29, 2013","4:25 PM ET","Qualcomm Stadium","San Diego, CA ","DAL","SD",21,30,68601
+"330929027","September 29, 2013","1:00 PM ET","Raymond James Stadium","Tampa, FL ","ARI","TB",13,10,44956
+"330929030","September 29, 2013","1:00 PM ET","EverBank Field","Jacksonville, FL ","IND","JAX",37,3,59695
+"330929034","September 29, 2013","1:00 PM ET","NRG Stadium","Houston, TX ","SEA","HOU",23,20,71756
+"330930018","September 30, 2013","8:30 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","MIA","NO",17,38,73118
+"331003005","October 3, 2013","8:25 PM ET","FirstEnergy Stadium","Cleveland, OH ","BUF","CLE",24,37,71239
+"331006003","October 6, 2013","1:00 PM ET","Soldier Field","Chicago, IL ","NO","CHI",26,18,62361
+"331006004","October 6, 2013","1:00 PM ET","Paul Brown Stadium","Cincinnati, OH ","NE","CIN",6,13,64259
+"331006006","October 6, 2013","4:25 PM ET","AT&T Stadium","Arlington, TX ","DEN","DAL",51,48,92758
+"331006009","October 6, 2013","1:00 PM ET","Lambeau Field","Green Bay, WI ","DET","GB",9,22,78200
+"331006010","October 6, 2013","1:00 PM ET","LP Field","Nashville, TN ","KC","TEN",26,17,69143
+"331006011","October 6, 2013","1:00 PM ET","Lucas Oil Stadium","Indianapolis, IN ","SEA","IND",28,34,66608
+"331006013","October 6, 2013","11:35 PM ET","O.co Coliseum","Oakland, CA ","SD","OAK",17,27,48834
+"331006014","October 6, 2013","1:00 PM ET","Edward Jones Dome","Saint Louis, MO ","JAX","STL",20,34,54266
+"331006015","October 6, 2013","1:00 PM ET","Sun Life Stadium","Miami, FL ","BAL","MIA",26,23,68342
+"331006019","October 6, 2013","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","PHI","NYG",36,21,80738
+"331006022","October 6, 2013","4:05 PM ET","U of Phoenix Stadium","Glendale, AZ ","CAR","ARI",6,22,60426
+"331006025","October 6, 2013","8:30 PM ET","Candlestick Park","San Francisco, CA ","HOU","SF",3,34,69732
+"331007001","October 7, 2013","8:30 PM ET","Georgia Dome","Atlanta, GA ","NYJ","ATL",30,28,70246
+"331010003","October 10, 2013","8:25 PM ET","Soldier Field","Chicago, IL ","NYG","CHI",21,27,62374
+"331013002","October 13, 2013","1:00 PM ET","Ralph Wilson Stadium","Buffalo, NY ","CIN","BUF",27,24,67739
+"331013005","October 13, 2013","1:00 PM ET","FirstEnergy Stadium","Cleveland, OH ","DET","CLE",31,17,71513
+"331013006","October 13, 2013","8:30 PM ET","AT&T Stadium","Arlington, TX ","WSH","DAL",16,31,90239
+"331013007","October 13, 2013","4:05 PM ET","Sports Authority Field at Mile High","Denver, CO ","JAX","DEN",19,35,76862
+"331013012","October 13, 2013","1:00 PM ET","Arrowhead Stadium","Kansas City, MO ","OAK","KC",7,24,76394
+"331013016","October 13, 2013","1:00 PM ET","Mall of America Field","Minneapolis, MN ","CAR","MIN",35,10,63963
+"331013017","October 13, 2013","4:25 PM ET","Gillette Stadium","Foxboro, MA ","NO","NE",27,30,68756
+"331013020","October 13, 2013","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","PIT","NYJ",19,6,76957
+"331013025","October 13, 2013","4:25 PM ET","Candlestick Park","San Francisco, CA ","ARI","SF",20,32,69732
+"331013026","October 13, 2013","4:05 PM ET","CenturyLink Field","Seattle, WA ","TEN","SEA",13,20,68127
+"331013027","October 13, 2013","1:00 PM ET","Raymond James Stadium","Tampa, FL ","PHI","TB",31,20,62505
+"331013033","October 13, 2013","1:00 PM ET","M&T Bank Stadium","Baltimore, MD ","GB","BAL",19,17,71319
+"331013034","October 13, 2013","1:00 PM ET","NRG Stadium","Houston, TX ","STL","HOU",38,13,71104
+"331014024","October 14, 2013","8:30 PM ET","Qualcomm Stadium","San Diego, CA ","IND","SD",9,19,57954
+"331017022","October 17, 2013","8:25 PM ET","U of Phoenix Stadium","Glendale, AZ ","SEA","ARI",34,22,61200
+"331020001","October 20, 2013","1:00 PM ET","Georgia Dome","Atlanta, GA ","TB","ATL",23,31,69522
+"331020008","October 20, 2013","1:00 PM ET","Ford Field","Detroit, MI ","CIN","DET",27,24,63207
+"331020009","October 20, 2013","4:25 PM ET","Lambeau Field","Green Bay, WI ","CLE","GB",13,31,77804
+"331020010","October 20, 2013","4:05 PM ET","LP Field","Nashville, TN ","SF","TEN",31,17,69143
+"331020011","October 20, 2013","8:30 PM ET","Lucas Oil Stadium","Indianapolis, IN ","DEN","IND",33,39,67196
+"331020012","October 20, 2013","4:25 PM ET","Arrowhead Stadium","Kansas City, MO ","HOU","KC",16,17,NA
+"331020015","October 20, 2013","1:00 PM ET","Sun Life Stadium","Miami, FL ","BUF","MIA",23,21,60952
+"331020020","October 20, 2013","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","NE","NYJ",27,30,76957
+"331020021","October 20, 2013","1:00 PM ET","Lincoln Financial Field","Philadelphia, PA ","DAL","PHI",17,3,69144
+"331020023","October 20, 2013","4:25 PM ET","Heinz Field","Pittsburgh, PA ","BAL","PIT",16,19,62295
+"331020028","October 20, 2013","1:00 PM ET","FedEx Field","Landover, MD ","CHI","WSH",41,45,83147
+"331020029","October 20, 2013","1:00 PM ET","Bank of America Stadium","Charlotte, NC ","STL","CAR",15,30,72686
+"331020030","October 20, 2013","1:00 PM ET","EverBank Field","Jacksonville, FL ","SD","JAX",24,6,59550
+"331021019","October 21, 2013","8:30 PM ET","MetLife Stadium","East Rutherford, NJ ","MIN","NYG",7,23,79314
+"331024027","October 24, 2013","8:25 PM ET","Raymond James Stadium","Tampa, FL ","CAR","TB",31,13,59073
+"331027004","October 27, 2013","4:05 PM ET","Paul Brown Stadium","Cincinnati, OH ","NYJ","CIN",9,49,62576
+"331027007","October 27, 2013","4:25 PM ET","Sports Authority Field at Mile High","Denver, CO ","WSH","DEN",21,45,77031
+"331027008","October 27, 2013","1:00 PM ET","Ford Field","Detroit, MI ","DAL","DET",30,31,64379
+"331027012","October 27, 2013","1:00 PM ET","Arrowhead Stadium","Kansas City, MO ","CLE","KC",17,23,74307
+"331027013","October 27, 2013","4:05 PM ET","O.co Coliseum","Oakland, CA ","PIT","OAK",18,21,NA
+"331027016","October 27, 2013","8:30 PM ET","Mall of America Field","Minneapolis, MN ","GB","MIN",44,31,64134
+"331027017","October 27, 2013","1:00 PM ET","Gillette Stadium","Foxboro, MA ","MIA","NE",17,27,68756
+"331027018","October 27, 2013","1:00 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","BUF","NO",17,35,72405
+"331027021","October 27, 2013","1:00 PM ET","Lincoln Financial Field","Philadelphia, PA ","NYG","PHI",15,7,69144
+"331027022","October 27, 2013","4:25 PM ET","U of Phoenix Stadium","Glendale, AZ ","ATL","ARI",13,27,60671
+"331027030","October 27, 2013","1:00 PM ET","Wembley Stadium","London ","SF","JAX",42,10,83559
+"331028014","October 28, 2013","8:30 PM ET","Edward Jones Dome","Saint Louis, MO ","SEA","STL",14,9,55966
+"331031015","October 31, 2013","8:25 PM ET","Sun Life Stadium","Miami, FL ","CIN","MIA",20,22,52388
+"331103002","November 3, 2013","1:00 PM ET","Ralph Wilson Stadium","Buffalo, NY ","KC","BUF",23,13,68159
+"331103005","November 3, 2013","4:25 PM ET","FirstEnergy Stadium","Cleveland, OH ","BAL","CLE",18,24,71513
+"331103006","November 3, 2013","1:00 PM ET","AT&T Stadium","Arlington, TX ","MIN","DAL",23,27,NA
+"331103013","November 3, 2013","4:05 PM ET","O.co Coliseum","Oakland, CA ","PHI","OAK",49,20,51751
+"331103014","November 3, 2013","1:00 PM ET","Edward Jones Dome","Saint Louis, MO ","TEN","STL",28,21,54617
+"331103017","November 3, 2013","4:25 PM ET","Gillette Stadium","Foxboro, MA ","PIT","NE",31,55,68756
+"331103020","November 3, 2013","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","NO","NYJ",20,26,76957
+"331103026","November 3, 2013","4:05 PM ET","CenturyLink Field","Seattle, WA ","TB","SEA",24,27,67873
+"331103028","November 3, 2013","1:00 PM ET","FedEx Field","Landover, MD ","SD","WSH",24,30,80115
+"331103029","November 3, 2013","1:00 PM ET","Bank of America Stadium","Charlotte, NC ","ATL","CAR",10,34,73720
+"331103034","November 3, 2013","8:30 PM ET","NRG Stadium","Houston, TX ","IND","HOU",27,24,71778
+"331104009","November 4, 2013","8:30 PM ET","Lambeau Field","Green Bay, WI ","CHI","GB",27,20,NA
+"331107016","November 7, 2013","8:25 PM ET","Mall of America Field","Minneapolis, MN ","WSH","MIN",27,34,64011
+"331110001","November 10, 2013","1:00 PM ET","Georgia Dome","Atlanta, GA ","SEA","ATL",33,10,70309
+"331110003","November 10, 2013","1:00 PM ET","Soldier Field","Chicago, IL ","DET","CHI",21,19,62431
+"331110009","November 10, 2013","1:00 PM ET","Lambeau Field","Green Bay, WI ","PHI","GB",27,13,78011
+"331110010","November 10, 2013","1:00 PM ET","LP Field","Nashville, TN ","JAX","TEN",29,27,69143
+"331110011","November 10, 2013","1:00 PM ET","Lucas Oil Stadium","Indianapolis, IN ","STL","IND",38,8,66004
+"331110018","November 10, 2013","8:30 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","DAL","NO",17,49,73018
+"331110019","November 10, 2013","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","OAK","NYG",20,24,80366
+"331110022","November 10, 2013","4:25 PM ET","U of Phoenix Stadium","Glendale, AZ ","HOU","ARI",24,27,NA
+"331110023","November 10, 2013","1:00 PM ET","Heinz Field","Pittsburgh, PA ","BUF","PIT",10,23,60406
+"331110024","November 10, 2013","4:25 PM ET","Qualcomm Stadium","San Diego, CA ","DEN","SD",28,20,68847
+"331110025","November 10, 2013","4:05 PM ET","Candlestick Park","San Francisco, CA ","CAR","SF",10,9,69732
+"331110033","November 10, 2013","1:00 PM ET","M&T Bank Stadium","Baltimore, MD ","CIN","BAL",17,20,70992
+"331111027","November 11, 2013","8:30 PM ET","Raymond James Stadium","Tampa, FL ","MIA","TB",19,22,NA
+"331114010","November 14, 2013","8:25 PM ET","LP Field","Nashville, TN ","IND","TEN",30,27,69143
+"331117002","November 17, 2013","1:00 PM ET","Ralph Wilson Stadium","Buffalo, NY ","NYJ","BUF",14,37,68036
+"331117003","November 17, 2013","1:00 PM ET","Soldier Field","Chicago, IL ","BAL","CHI",20,23,62367
+"331117004","November 17, 2013","1:00 PM ET","Paul Brown Stadium","Cincinnati, OH ","CLE","CIN",20,41,63856
+"331117007","November 17, 2013","8:30 PM ET","Sports Authority Field at Mile High","Denver, CO ","KC","DEN",17,27,77076
+"331117015","November 17, 2013","4:05 PM ET","Sun Life Stadium","Miami, FL ","SD","MIA",16,20,60256
+"331117018","November 17, 2013","4:25 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","SF","NO",20,23,NA
+"331117019","November 17, 2013","4:25 PM ET","MetLife Stadium","East Rutherford, NJ ","GB","NYG",13,27,79114
+"331117021","November 17, 2013","1:00 PM ET","Lincoln Financial Field","Philadelphia, PA ","WSH","PHI",16,24,69144
+"331117023","November 17, 2013","1:00 PM ET","Heinz Field","Pittsburgh, PA ","DET","PIT",27,37,57095
+"331117026","November 17, 2013","4:25 PM ET","CenturyLink Field","Seattle, WA ","MIN","SEA",20,41,68235
+"331117027","November 17, 2013","1:00 PM ET","Raymond James Stadium","Tampa, FL ","ATL","TB",28,41,55360
+"331117030","November 17, 2013","1:00 PM ET","EverBank Field","Jacksonville, FL ","ARI","JAX",27,14,59862
+"331117034","November 17, 2013","1:00 PM ET","NRG Stadium","Houston, TX ","OAK","HOU",28,23,71726
+"331118029","November 18, 2013","8:30 PM ET","Bank of America Stadium","Charlotte, NC ","NE","CAR",20,24,74225
+"331121001","November 21, 2013","8:25 PM ET","Georgia Dome","Atlanta, GA ","NO","ATL",17,13,70422
+"331124005","November 24, 2013","1:00 PM ET","FirstEnergy Stadium","Cleveland, OH ","PIT","CLE",27,11,71513
+"331124008","November 24, 2013","1:00 PM ET","Ford Field","Detroit, MI ","TB","DET",24,21,62098
+"331124009","November 24, 2013","1:00 PM ET","Lambeau Field","Green Bay, WI ","MIN","GB",26,26,77871
+"331124012","November 24, 2013","1:00 PM ET","Arrowhead Stadium","Kansas City, MO ","SD","KC",41,38,75259
+"331124013","November 24, 2013","4:05 PM ET","O.co Coliseum","Oakland, CA ","TEN","OAK",23,19,NA
+"331124014","November 24, 2013","1:00 PM ET","Edward Jones Dome","Saint Louis, MO ","CHI","STL",21,42,66024
+"331124015","November 24, 2013","1:00 PM ET","Sun Life Stadium","Miami, FL ","CAR","MIA",20,16,60156
+"331124017","November 24, 2013","8:30 PM ET","Gillette Stadium","Foxboro, MA ","DEN","NE",31,34,68756
+"331124019","November 24, 2013","4:25 PM ET","MetLife Stadium","East Rutherford, NJ ","DAL","NYG",24,21,80499
+"331124022","November 24, 2013","4:05 PM ET","U of Phoenix Stadium","Glendale, AZ ","IND","ARI",11,40,60882
+"331124033","November 24, 2013","1:00 PM ET","M&T Bank Stadium","Baltimore, MD ","NYJ","BAL",3,19,71148
+"331124034","November 24, 2013","1:00 PM ET","NRG Stadium","Houston, TX ","JAX","HOU",13,6,71659
+"331125028","November 25, 2013","8:30 PM ET","FedEx Field","Landover, MD ","SF","WSH",27,6,79773
+"331128006","November 28, 2013","4:30 PM ET","AT&T Stadium","Arlington, TX ","OAK","DAL",24,31,87572
+"331128008","November 28, 2013","12:30 PM ET","Ford Field","Detroit, MI ","GB","DET",10,40,64934
+"331128033","November 28, 2013","8:30 PM ET","M&T Bank Stadium","Baltimore, MD ","PIT","BAL",20,22,71005
+"331201002","December 1, 2013","4:05 PM ET","Rogers Centre","Toronto, ON ","ATL","BUF",34,31,38969
+"331201005","December 1, 2013","1:00 PM ET","FirstEnergy Stadium","Cleveland, OH ","JAX","CLE",32,28,69654
+"331201011","December 1, 2013","1:00 PM ET","Lucas Oil Stadium","Indianapolis, IN ","TEN","IND",14,22,65502
+"331201012","December 1, 2013","4:25 PM ET","Arrowhead Stadium","Kansas City, MO ","DEN","KC",35,28,77065
+"331201016","December 1, 2013","1:00 PM ET","Mall of America Field","Minneapolis, MN ","CHI","MIN",20,23,64134
+"331201020","December 1, 2013","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","MIA","NYJ",23,3,76957
+"331201021","December 1, 2013","1:00 PM ET","Lincoln Financial Field","Philadelphia, PA ","ARI","PHI",21,24,69144
+"331201024","December 1, 2013","4:25 PM ET","Qualcomm Stadium","San Diego, CA ","CIN","SD",17,10,61536
+"331201025","December 1, 2013","4:05 PM ET","Candlestick Park","San Francisco, CA ","STL","SF",13,23,69732
+"331201028","December 1, 2013","8:30 PM ET","FedEx Field","Landover, MD ","NYG","WSH",24,17,75220
+"331201029","December 1, 2013","1:00 PM ET","Bank of America Stadium","Charlotte, NC ","TB","CAR",6,27,72795
+"331201034","December 1, 2013","1:00 PM ET","NRG Stadium","Houston, TX ","NE","HOU",34,31,71769
+"331202026","December 2, 2013","8:30 PM ET","CenturyLink Field","Seattle, WA ","NO","SEA",7,34,68387
+"331205030","December 5, 2013","8:25 PM ET","EverBank Field","Jacksonville, FL ","HOU","JAX",20,27,60414
+"331208004","December 8, 2013","1:00 PM ET","Paul Brown Stadium","Cincinnati, OH ","IND","CIN",28,42,62507
+"331208007","December 8, 2013","4:05 PM ET","Sports Authority Field at Mile High","Denver, CO ","TEN","DEN",28,51,NA
+"331208009","December 8, 2013","1:00 PM ET","Lambeau Field","Green Bay, WI ","ATL","GB",21,22,77550
+"331208017","December 8, 2013","1:00 PM ET","Gillette Stadium","Foxboro, MA ","CLE","NE",26,27,68756
+"331208018","December 8, 2013","8:30 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","CAR","NO",13,31,73089
+"331208020","December 8, 2013","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","OAK","NYJ",27,37,76957
+"331208021","December 8, 2013","1:00 PM ET","Lincoln Financial Field","Philadelphia, PA ","DET","PHI",20,34,69144
+"331208022","December 8, 2013","4:25 PM ET","U of Phoenix Stadium","Glendale, AZ ","STL","ARI",10,30,60643
+"331208023","December 8, 2013","1:00 PM ET","Heinz Field","Pittsburgh, PA ","MIA","PIT",34,28,52489
+"331208024","December 8, 2013","4:25 PM ET","Qualcomm Stadium","San Diego, CA ","NYG","SD",14,37,65132
+"331208025","December 8, 2013","4:25 PM ET","Candlestick Park","San Francisco, CA ","SEA","SF",17,19,69732
+"331208027","December 8, 2013","1:00 PM ET","Raymond James Stadium","Tampa, FL ","BUF","TB",6,27,59194
+"331208028","December 8, 2013","1:00 PM ET","FedEx Field","Landover, MD ","KC","WSH",45,10,56247
+"331208033","December 8, 2013","1:00 PM ET","M&T Bank Stadium","Baltimore, MD ","MIN","BAL",26,29,70921
+"331209003","December 9, 2013","8:30 PM ET","Soldier Field","Chicago, IL ","DAL","CHI",28,45,62229
+"331212007","December 12, 2013","8:25 PM ET","Sports Authority Field at Mile High","Denver, CO ","SD","DEN",27,20,76497
+"331215001","December 15, 2013","1:00 PM ET","Georgia Dome","Atlanta, GA ","WSH","ATL",26,27,70069
+"331215005","December 15, 2013","1:00 PM ET","FirstEnergy Stadium","Cleveland, OH ","CHI","CLE",38,31,71513
+"331215006","December 15, 2013","4:25 PM ET","AT&T Stadium","Arlington, TX ","GB","DAL",37,36,91054
+"331215010","December 15, 2013","4:25 PM ET","LP Field","Nashville, TN ","ARI","TEN",37,34,69143
+"331215011","December 15, 2013","1:00 PM ET","Lucas Oil Stadium","Indianapolis, IN ","HOU","IND",3,25,65470
+"331215013","December 15, 2013","4:05 PM ET","O.co Coliseum","Oakland, CA ","KC","OAK",56,31,49571
+"331215014","December 15, 2013","4:25 PM ET","Edward Jones Dome","Saint Louis, MO ","NO","STL",16,27,58442
+"331215015","December 15, 2013","1:00 PM ET","Sun Life Stadium","Miami, FL ","NE","MIA",20,24,71863
+"331215016","December 15, 2013","1:00 PM ET","Mall of America Field","Minneapolis, MN ","PHI","MIN",30,48,64087
+"331215019","December 15, 2013","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","SEA","NYG",23,0,79691
+"331215023","December 15, 2013","8:30 PM ET","Heinz Field","Pittsburgh, PA ","CIN","PIT",20,30,45873
+"331215027","December 15, 2013","1:00 PM ET","Raymond James Stadium","Tampa, FL ","SF","TB",33,14,64142
+"331215029","December 15, 2013","4:05 PM ET","Bank of America Stadium","Charlotte, NC ","NYJ","CAR",20,30,73251
+"331215030","December 15, 2013","1:00 PM ET","EverBank Field","Jacksonville, FL ","BUF","JAX",27,20,60085
+"331216008","December 16, 2013","8:30 PM ET","Ford Field","Detroit, MI ","BAL","DET",18,16,64742
+"331222002","December 22, 2013","1:00 PM ET","Ralph Wilson Stadium","Buffalo, NY ","MIA","BUF",0,19,54305
+"331222004","December 22, 2013","1:00 PM ET","Paul Brown Stadium","Cincinnati, OH ","MIN","CIN",14,42,61555
+"331222008","December 22, 2013","4:05 PM ET","Ford Field","Detroit, MI ","NYG","DET",23,20,63996
+"331222009","December 22, 2013","4:25 PM ET","Lambeau Field","Green Bay, WI ","PIT","GB",38,31,77999
+"331222012","December 22, 2013","1:00 PM ET","Arrowhead Stadium","Kansas City, MO ","IND","KC",23,7,75396
+"331222014","December 22, 2013","1:00 PM ET","Edward Jones Dome","Saint Louis, MO ","TB","STL",13,23,54423
+"331222020","December 22, 2013","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","CLE","NYJ",13,24,76957
+"331222021","December 22, 2013","8:30 PM ET","Lincoln Financial Field","Philadelphia, PA ","CHI","PHI",11,54,69144
+"331222024","December 22, 2013","4:25 PM ET","Qualcomm Stadium","San Diego, CA ","OAK","SD",13,26,65675
+"331222026","December 22, 2013","4:05 PM ET","CenturyLink Field","Seattle, WA ","ARI","SEA",17,10,NA
+"331222028","December 22, 2013","1:00 PM ET","FedEx Field","Landover, MD ","DAL","WSH",24,23,80411
+"331222029","December 22, 2013","1:00 PM ET","Bank of America Stadium","Charlotte, NC ","NO","CAR",13,17,73825
+"331222030","December 22, 2013","1:00 PM ET","EverBank Field","Jacksonville, FL ","TEN","JAX",20,16,60559
+"331222033","December 22, 2013","4:25 PM ET","M&T Bank Stadium","Baltimore, MD ","NE","BAL",41,7,71433
+"331222034","December 22, 2013","1:00 PM ET","NRG Stadium","Houston, TX ","DEN","HOU",37,13,71761
+"331223025","December 23, 2013","8:30 PM ET","Candlestick Park","San Francisco, CA ","ATL","SF",24,34,NA
+"331229001","December 29, 2013","1:00 PM ET","Georgia Dome","Atlanta, GA ","CAR","ATL",21,20,70427
+"331229003","December 29, 2013","4:25 PM ET","Soldier Field","Chicago, IL ","GB","CHI",33,28,62708
+"331229004","December 29, 2013","1:00 PM ET","Paul Brown Stadium","Cincinnati, OH ","BAL","CIN",17,34,62406
+"331229006","December 29, 2013","8:30 PM ET","AT&T Stadium","Arlington, TX ","PHI","DAL",24,22,91166
+"331229010","December 29, 2013","1:00 PM ET","LP Field","Nashville, TN ","HOU","TEN",10,16,69143
+"331229011","December 29, 2013","1:00 PM ET","Lucas Oil Stadium","Indianapolis, IN ","JAX","IND",10,30,66008
+"331229013","December 29, 2013","4:25 PM ET","O.co Coliseum","Oakland, CA ","DEN","OAK",34,14,51500
+"331229015","December 29, 2013","1:00 PM ET","Sun Life Stadium","Miami, FL ","NYJ","MIA",20,7,70296
+"331229016","December 29, 2013","1:00 PM ET","Mall of America Field","Minneapolis, MN ","DET","MIN",13,14,64134
+"331229017","December 29, 2013","4:25 PM ET","Gillette Stadium","Foxboro, MA ","BUF","NE",20,34,68756
+"331229018","December 29, 2013","4:25 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","TB","NO",17,42,NA
+"331229019","December 29, 2013","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","WSH","NYG",6,20,80177
+"331229022","December 29, 2013","4:25 PM ET","U of Phoenix Stadium","Glendale, AZ ","SF","ARI",23,20,NA
+"331229023","December 29, 2013","1:00 PM ET","Heinz Field","Pittsburgh, PA ","CLE","PIT",7,20,56361
+"331229024","December 29, 2013","4:25 PM ET","Qualcomm Stadium","San Diego, CA ","KC","SD",24,27,66374
+"331229026","December 29, 2013","4:25 PM ET","CenturyLink Field","Seattle, WA ","STL","SEA",9,27,68264
+"400554194","September 18, 2014","8:25 PM ET","Georgia Dome","Atlanta, GA ","TB","ATL",14,56,70318
+"400554195","September 21, 2014","1:00 PM ET","Ralph Wilson Stadium","Buffalo, NY ","SD","BUF",22,10,68611
+"400554196","September 11, 2014","8:25 PM ET","M&T Bank Stadium","Baltimore, MD ","PIT","BAL",6,26,71181
+"400554197","October 2, 2014","8:25 PM ET","Lambeau Field","Green Bay, WI ","MIN","GB",10,42,78054
+"400554198","September 14, 2014","1:00 PM ET","Ralph Wilson Stadium","Buffalo, NY ","MIA","BUF",10,29,69954
+"400554199","September 21, 2014","1:00 PM ET","Edward Jones Dome","Saint Louis, MO ","DAL","STL",34,31,58739
+"400554200","October 5, 2014","1:00 PM ET","Bank of America Stadium","Charlotte, NC ","CHI","CAR",24,31,73659
+"400554201","September 25, 2014","8:25 PM ET","FedEx Field","Landover, MD ","NYG","WSH",45,14,80573
+"400554202","September 14, 2014","1:00 PM ET","FedEx Field","Landover, MD ","JAX","WSH",10,41,80037
+"400554203","September 21, 2014","1:00 PM ET","Lincoln Financial Field","Philadelphia, PA ","WSH","PHI",34,37,69596
+"400554204","October 5, 2014","1:00 PM ET","LP Field","Nashville, TN ","CLE","TEN",29,28,69143
+"400554205","October 5, 2014","1:00 PM ET","Lincoln Financial Field","Philadelphia, PA ","STL","PHI",28,34,69596
+"400554206","September 14, 2014","1:00 PM ET","LP Field","Nashville, TN ","DAL","TEN",26,10,69143
+"400554207","September 28, 2014","1:00 PM ET","Soldier Field","Chicago, IL ","GB","CHI",38,17,61736
+"400554208","September 21, 2014","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","HOU","NYG",17,30,77462
+"400554209","October 5, 2014","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","ATL","NYG",20,30,80307
+"400554210","October 5, 2014","1:00 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","TB","NO",31,37,73004
+"400554211","September 14, 2014","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","ARI","NYG",25,14,78344
+"400554212","September 28, 2014","1:00 PM ET","NRG Stadium","Houston, TX ","BUF","HOU",17,23,71756
+"400554213","September 21, 2014","1:00 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","MIN","NO",9,20,73005
+"400554214","September 4, 2014","8:30 PM ET","CenturyLink Field","Seattle, WA ","GB","SEA",16,36,68424
+"400554215","September 7, 2014","1:00 PM ET","Georgia Dome","Atlanta, GA ","NO","ATL",34,37,70706
+"400554216","October 9, 2014","8:25 PM ET","NRG Stadium","Houston, TX ","IND","HOU",33,28,71787
+"400554217","September 7, 2014","1:00 PM ET","Edward Jones Dome","Saint Louis, MO ","MIN","STL",34,6,55919
+"400554218","October 23, 2014","8:25 PM ET","Sports Authority Field at Mile High","Denver, CO ","SD","DEN",21,35,76907
+"400554219","October 16, 2014","8:25 PM ET","Gillette Stadium","Foxboro, MA ","NYJ","NE",25,27,68756
+"400554220","October 12, 2014","4:25 PM ET","Georgia Dome","Atlanta, GA ","CHI","ATL",27,13,70712
+"400554221","September 7, 2014","1:00 PM ET","Heinz Field","Pittsburgh, PA ","CLE","PIT",27,30,64598
+"400554222","October 12, 2014","1:00 PM ET","LP Field","Nashville, TN ","JAX","TEN",14,16,69143
+"400554223","September 7, 2014","1:00 PM ET","Lincoln Financial Field","Philadelphia, PA ","JAX","PHI",17,34,69596
+"400554224","October 26, 2014","9:30 AM ET","Wembley Stadium","London ","DET","ATL",22,21,83532
+"400554225","October 12, 2014","1:00 PM ET","Raymond James Stadium","Tampa, FL ","BAL","TB",48,17,60041
+"400554226","September 7, 2014","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","OAK","NYJ",14,19,78160
+"400554227","October 26, 2014","1:00 PM ET","Arrowhead Stadium","Kansas City, MO ","STL","KC",7,34,75972
+"400554228","October 19, 2014","1:00 PM ET","M&T Bank Stadium","Baltimore, MD ","ATL","BAL",7,29,71184
+"400554229","September 7, 2014","1:00 PM ET","M&T Bank Stadium","Baltimore, MD ","CIN","BAL",23,16,70925
+"400554230","October 26, 2014","1:00 PM ET","LP Field","Nashville, TN ","HOU","TEN",30,16,69143
+"400554231","October 12, 2014","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","DEN","NYJ",31,17,78160
+"400554232","September 7, 2014","1:00 PM ET","Soldier Field","Chicago, IL ","BUF","CHI",23,20,62425
+"400554233","October 19, 2014","1:00 PM ET","FedEx Field","Landover, MD ","TEN","WSH",17,19,75227
+"400554234","October 5, 2014","1:00 PM ET","AT&T Stadium","Arlington, TX ","HOU","DAL",17,20,91159
+"400554235","September 14, 2014","1:00 PM ET","TCF Bank Stadium","Minneapolis, MN ","NE","MIN",30,7,52350
+"400554236","October 5, 2014","1:00 PM ET","Ford Field","Detroit, MI ","BUF","DET",17,14,62775
+"400554237","September 21, 2014","1:00 PM ET","Paul Brown Stadium","Cincinnati, OH ","TEN","CIN",7,33,56743
+"400554238","September 28, 2014","1:00 PM ET","Lucas Oil Stadium","Indianapolis, IN ","TEN","IND",17,41,64757
+"400554239","October 5, 2014","1:00 PM ET","Lucas Oil Stadium","Indianapolis, IN ","BAL","IND",13,20,65258
+"400554240","September 21, 2014","1:00 PM ET","FirstEnergy Stadium","Cleveland, OH ","BAL","CLE",23,21,67407
+"400554241","September 14, 2014","1:00 PM ET","FirstEnergy Stadium","Cleveland, OH ","NO","CLE",24,26,67407
+"400554242","September 28, 2014","4:25 PM ET","TCF Bank Stadium","Minneapolis, MN ","ATL","MIN",28,41,52173
+"400554243","October 5, 2014","1:00 PM ET","EverBank Field","Jacksonville, FL ","PIT","JAX",17,9,66198
+"400554244","September 21, 2014","1:00 PM ET","Ford Field","Detroit, MI ","GB","DET",7,19,62418
+"400554245","September 14, 2014","1:00 PM ET","Paul Brown Stadium","Cincinnati, OH ","ATL","CIN",10,24,58574
+"400554246","October 5, 2014","4:05 PM ET","Sports Authority Field at Mile High","Denver, CO ","ARI","DEN",20,41,76895
+"400554247","September 21, 2014","1:00 PM ET","EverBank Field","Jacksonville, FL ","IND","JAX",44,17,60601
+"400554248","September 28, 2014","1:00 PM ET","M&T Bank Stadium","Baltimore, MD ","CAR","BAL",10,38,71218
+"400554249","September 14, 2014","1:00 PM ET","Bank of America Stadium","Charlotte, NC ","DET","CAR",7,24,73586
+"400554250","September 21, 2014","1:00 PM ET","Gillette Stadium","Foxboro, MA ","OAK","NE",9,16,68756
+"400554251","October 5, 2014","4:25 PM ET","Levi's Stadium","Santa Clara, CA ","KC","SF",17,22,70799
+"400554252","September 28, 2014","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","DET","NYJ",24,17,78160
+"400554253","September 21, 2014","4:05 PM ET","U of Phoenix Stadium","Glendale, AZ ","SF","ARI",14,23,61572
+"400554254","October 26, 2014","1:00 PM ET","Raymond James Stadium","Tampa, FL ","MIN","TB",19,13,56577
+"400554255","October 12, 2014","1:00 PM ET","TCF Bank Stadium","Minneapolis, MN ","DET","MIN",17,3,52213
+"400554256","September 7, 2014","1:00 PM ET","NRG Stadium","Houston, TX ","WSH","HOU",6,17,71770
+"400554257","October 19, 2014","1:00 PM ET","Edward Jones Dome","Saint Louis, MO ","SEA","STL",26,28,57855
+"400554258","October 26, 2014","1:00 PM ET","Bank of America Stadium","Charlotte, NC ","SEA","CAR",13,9,74042
+"400554259","October 12, 2014","1:00 PM ET","Ralph Wilson Stadium","Buffalo, NY ","NE","BUF",37,22,70185
+"400554260","September 7, 2014","1:00 PM ET","Arrowhead Stadium","Kansas City, MO ","TEN","KC",26,10,73569
+"400554261","October 19, 2014","1:00 PM ET","EverBank Field","Jacksonville, FL ","CLE","JAX",6,24,61341
+"400554262","September 7, 2014","1:00 PM ET","Sun Life Stadium","Miami, FL ","NE","MIA",20,33,70630
+"400554263","October 12, 2014","1:00 PM ET","Paul Brown Stadium","Cincinnati, OH ","CAR","CIN",37,37,57053
+"400554264","October 26, 2014","1:00 PM ET","Paul Brown Stadium","Cincinnati, OH ","BAL","CIN",24,27,55711
+"400554265","October 19, 2014","1:00 PM ET","Lucas Oil Stadium","Indianapolis, IN ","CIN","IND",0,27,66539
+"400554266","September 7, 2014","4:25 PM ET","Raymond James Stadium","Tampa, FL ","CAR","TB",20,14,62442
+"400554267","October 26, 2014","1:00 PM ET","EverBank Field","Jacksonville, FL ","MIA","JAX",27,13,65633
+"400554268","October 19, 2014","1:00 PM ET","Ralph Wilson Stadium","Buffalo, NY ","MIN","BUF",16,17,68477
+"400554269","September 7, 2014","4:25 PM ET","AT&T Stadium","Arlington, TX ","SF","DAL",28,17,91174
+"400554270","October 19, 2014","1:00 PM ET","Soldier Field","Chicago, IL ","MIA","CHI",27,14,62413
+"400554271","October 19, 2014","1:00 PM ET","Ford Field","Detroit, MI ","NO","DET",23,24,63271
+"400554272","October 26, 2014","1:00 PM ET","Gillette Stadium","Foxboro, MA ","CHI","NE",23,51,68756
+"400554273","September 7, 2014","8:30 PM ET","Sports Authority Field at Mile High","Denver, CO ","IND","DEN",24,31,76939
+"400554274","September 14, 2014","4:05 PM ET","Raymond James Stadium","Tampa, FL ","STL","TB",19,17,59923
+"400554275","October 5, 2014","4:25 PM ET","Qualcomm Stadium","San Diego, CA ","NYJ","SD",0,31,63471
+"400554276","September 21, 2014","4:25 PM ET","CenturyLink Field","Seattle, WA ","DEN","SEA",20,26,68447
+"400554277","October 5, 2014","8:30 PM ET","Gillette Stadium","Foxboro, MA ","CIN","NE",17,43,68756
+"400554278","September 14, 2014","4:05 PM ET","Qualcomm Stadium","San Diego, CA ","SEA","SD",21,30,67916
+"400554279","September 28, 2014","1:00 PM ET","Heinz Field","Pittsburgh, PA ","TB","PIT",27,24,62910
+"400554280","September 21, 2014","4:25 PM ET","Sun Life Stadium","Miami, FL ","KC","MIA",34,15,70313
+"400554281","November 27, 2014","12:30 PM ET","Ford Field","Detroit, MI ","CHI","DET",17,34,64175
+"400554282","October 6, 2014","8:30 PM ET","FedEx Field","Landover, MD ","SEA","WSH",27,17,79522
+"400554283","September 21, 2014","8:30 PM ET","Bank of America Stadium","Charlotte, NC ","PIT","CAR",37,19,73945
+"400554284","September 14, 2014","4:25 PM ET","O.co Coliseum","Oakland, CA ","HOU","OAK",30,14,54063
+"400554285","November 27, 2014","4:30 PM ET","AT&T Stadium","Arlington, TX ","PHI","DAL",33,10,91379
+"400554286","September 28, 2014","1:00 PM ET","Wembley Stadium","London ","MIA","OAK",38,14,83436
+"400554287","September 14, 2014","4:25 PM ET","Lambeau Field","Green Bay, WI ","NYJ","GB",24,31,78041
+"400554288","September 22, 2014","8:30 PM ET","MetLife Stadium","East Rutherford, NJ ","CHI","NYJ",27,19,78160
+"400554289","November 27, 2014","8:30 PM ET","Levi's Stadium","Santa Clara, CA ","SEA","SF",19,3,70799
+"400554290","September 28, 2014","4:05 PM ET","Qualcomm Stadium","San Diego, CA ","JAX","SD",14,33,56553
+"400554291","September 14, 2014","4:25 PM ET","Sports Authority Field at Mile High","Denver, CO ","KC","DEN",17,24,76900
+"400554292","November 30, 2014","1:00 PM ET","Lucas Oil Stadium","Indianapolis, IN ","WSH","IND",27,49,65352
+"400554293","November 20, 2014","8:25 PM ET","O.co Coliseum","Oakland, CA ","KC","OAK",20,24,52865
+"400554294","October 19, 2014","1:00 PM ET","Lambeau Field","Green Bay, WI ","CAR","GB",17,38,78106
+"400554295","October 12, 2014","1:00 PM ET","FirstEnergy Stadium","Cleveland, OH ","PIT","CLE",10,31,67431
+"400554296","September 8, 2014","7:10 PM ET","Ford Field","Detroit, MI ","NYG","DET",14,35,64401
+"400554297","October 19, 2014","4:05 PM ET","Qualcomm Stadium","San Diego, CA ","KC","SD",23,20,65260
+"400554298","October 26, 2014","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","BUF","NYJ",43,23,78160
+"400554299","October 12, 2014","1:00 PM ET","Sun Life Stadium","Miami, FL ","GB","MIA",27,24,70875
+"400554300","October 19, 2014","4:25 PM ET","O.co Coliseum","Oakland, CA ","ARI","OAK",24,13,52101
+"400554301","September 8, 2014","10:20 PM ET","U of Phoenix Stadium","Glendale, AZ ","SD","ARI",17,18,61292
+"400554302","October 12, 2014","4:05 PM ET","O.co Coliseum","Oakland, CA ","SD","OAK",31,28,53329
+"400554303","October 26, 2014","4:05 PM ET","U of Phoenix Stadium","Glendale, AZ ","PHI","ARI",20,24,61789
+"400554304","October 19, 2014","4:25 PM ET","AT&T Stadium","Arlington, TX ","NYG","DAL",21,31,91028
+"400554305","October 12, 2014","4:25 PM ET","CenturyLink Field","Seattle, WA ","DAL","SEA",30,23,68432
+"400554306","October 26, 2014","4:25 PM ET","FirstEnergy Stadium","Cleveland, OH ","OAK","CLE",13,23,67431
+"400554307","October 19, 2014","8:30 PM ET","Sports Authority Field at Mile High","Denver, CO ","SF","DEN",17,42,77047
+"400554308","October 12, 2014","4:25 PM ET","U of Phoenix Stadium","Glendale, AZ ","WSH","ARI",20,30,61139
+"400554309","October 30, 2014","8:25 PM ET","Bank of America Stadium","Charlotte, NC ","NO","CAR",28,10,73663
+"400554310","October 26, 2014","4:25 PM ET","Heinz Field","Pittsburgh, PA ","IND","PIT",34,51,62479
+"400554311","October 20, 2014","8:30 PM ET","Heinz Field","Pittsburgh, PA ","HOU","PIT",23,30,56375
+"400554312","October 12, 2014","8:30 PM ET","Lincoln Financial Field","Philadelphia, PA ","NYG","PHI",0,27,69596
+"400554313","October 26, 2014","8:30 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","GB","NO",23,44,73146
+"400554314","September 14, 2014","8:30 PM ET","Levi's Stadium","Santa Clara, CA ","CHI","SF",28,20,70799
+"400554315","September 28, 2014","4:25 PM ET","Levi's Stadium","Santa Clara, CA ","PHI","SF",21,26,70799
+"400554316","November 30, 2014","1:00 PM ET","NRG Stadium","Houston, TX ","TEN","HOU",21,45,71714
+"400554317","November 23, 2014","1:00 PM ET","Georgia Dome","Atlanta, GA ","CLE","ATL",26,24,70046
+"400554318","September 15, 2014","8:30 PM ET","Lucas Oil Stadium","Indianapolis, IN ","PHI","IND",30,27,64871
+"400554319","September 28, 2014","8:30 PM ET","AT&T Stadium","Arlington, TX ","NO","DAL",17,38,91176
+"400554320","November 23, 2014","1:00 PM ET","Lincoln Financial Field","Philadelphia, PA ","TEN","PHI",24,43,69596
+"400554321","November 30, 2014","1:00 PM ET","Ralph Wilson Stadium","Buffalo, NY ","CLE","BUF",10,26,68576
+"400554322","November 23, 2014","1:00 PM ET","Gillette Stadium","Foxboro, MA ","DET","NE",9,34,68756
+"400554323","November 30, 2014","1:00 PM ET","M&T Bank Stadium","Baltimore, MD ","SD","BAL",34,33,71060
+"400554324","November 23, 2014","1:00 PM ET","TCF Bank Stadium","Minneapolis, MN ","GB","MIN",24,21,52386
+"400554325","September 29, 2014","8:30 PM ET","Arrowhead Stadium","Kansas City, MO ","NE","KC",14,41,76613
+"400554326","November 23, 2014","1:00 PM ET","Lucas Oil Stadium","Indianapolis, IN ","JAX","IND",3,23,64328
+"400554327","November 30, 2014","1:00 PM ET","EverBank Field","Jacksonville, FL ","NYG","JAX",24,25,64687
+"400554328","November 6, 2014","8:25 PM ET","Paul Brown Stadium","Cincinnati, OH ","CLE","CIN",24,3,65871
+"400554329","November 23, 2014","1:00 PM ET","NRG Stadium","Houston, TX ","CIN","HOU",22,13,71777
+"400554330","November 30, 2014","1:00 PM ET","Raymond James Stadium","Tampa, FL ","CIN","TB",14,13,56340
+"400554332","November 9, 2014","1:00 PM ET","Ralph Wilson Stadium","Buffalo, NY ","KC","BUF",17,13,68119
+"400554333","November 23, 2014","1:00 PM ET","Soldier Field","Chicago, IL ","TB","CHI",13,21,61109
+"400554334","November 2, 2014","1:00 PM ET","FirstEnergy Stadium","Cleveland, OH ","TB","CLE",17,22,67431
+"400554335","October 13, 2014","8:30 PM ET","Edward Jones Dome","Saint Louis, MO ","SF","STL",31,17,56851
+"400554336","October 27, 2014","8:30 PM ET","AT&T Stadium","Arlington, TX ","WSH","DAL",20,17,87055
+"400554337","November 2, 2014","1:00 PM ET","AT&T Stadium","Arlington, TX ","ARI","DAL",28,17,85688
+"400554338","November 13, 2014","8:25 PM ET","Sun Life Stadium","Miami, FL ","BUF","MIA",9,22,71573
+"400554339","November 2, 2014","1:00 PM ET","NRG Stadium","Houston, TX ","PHI","HOU",31,21,71780
+"400554340","November 16, 2014","1:00 PM ET","Soldier Field","Chicago, IL ","MIN","CHI",13,21,61792
+"400554341","November 2, 2014","1:00 PM ET","Arrowhead Stadium","Kansas City, MO ","NYJ","KC",10,24,74127
+"400554342","December 11, 2014","8:25 PM ET","Edward Jones Dome","Saint Louis, MO ","ARI","STL",12,6,55880
+"400554343","November 16, 2014","1:00 PM ET","FirstEnergy Stadium","Cleveland, OH ","HOU","CLE",23,7,67431
+"400554344","November 2, 2014","1:00 PM ET","Paul Brown Stadium","Cincinnati, OH ","JAX","CIN",23,33,60057
+"400554345","November 16, 2014","4:25 PM ET","Lambeau Field","Green Bay, WI ","PHI","GB",20,53,78270
+"400554346","December 14, 2014","1:00 PM ET","Georgia Dome","Atlanta, GA ","PIT","ATL",27,20,71161
+"400554347","November 2, 2014","1:00 PM ET","Sun Life Stadium","Miami, FL ","SD","MIA",0,37,70222
+"400554348","November 16, 2014","1:00 PM ET","Arrowhead Stadium","Kansas City, MO ","SEA","KC",20,24,76463
+"400554349","December 4, 2014","8:25 PM ET","Soldier Field","Chicago, IL ","DAL","CHI",41,28,61558
+"400554350","December 14, 2014","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","WSH","NYG",13,24,77628
+"400554351","November 2, 2014","1:00 PM ET","TCF Bank Stadium","Minneapolis, MN ","WSH","MIN",26,29,52252
+"400554352","November 16, 2014","1:00 PM ET","Bank of America Stadium","Charlotte, NC ","ATL","CAR",19,17,73314
+"400554353","December 14, 2014","1:00 PM ET","Gillette Stadium","Foxboro, MA ","MIA","NE",13,41,68756
+"400554354","November 30, 2014","1:00 PM ET","Edward Jones Dome","Saint Louis, MO ","OAK","STL",0,52,55650
+"400554355","November 9, 2014","1:00 PM ET","Ford Field","Detroit, MI ","MIA","DET",16,20,63179
+"400554356","December 18, 2014","8:25 PM ET","EverBank Field","Jacksonville, FL ","TEN","JAX",13,21,61202
+"400554357","November 23, 2014","4:05 PM ET","CenturyLink Field","Seattle, WA ","ARI","SEA",3,19,68327
+"400554358","November 9, 2014","1:00 PM ET","Wembley Stadium","London ","DAL","JAX",31,17,83603
+"400554359","November 30, 2014","1:00 PM ET","Heinz Field","Pittsburgh, PA ","NO","PIT",35,32,61916
+"400554360","November 23, 2014","4:05 PM ET","Qualcomm Stadium","San Diego, CA ","STL","SD",24,27,66040
+"400554361","December 20, 2014","8:25 PM ET","Levi's Stadium","Santa Clara, CA ","SD","SF",38,35,70699
+"400554362","November 9, 2014","1:00 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","SF","NO",27,24,73129
+"400554363","November 30, 2014","1:00 PM ET","TCF Bank Stadium","Minneapolis, MN ","CAR","MIN",13,31,52016
+"400554364","November 23, 2014","4:25 PM ET","Sports Authority Field at Mile High","Denver, CO ","MIA","DEN",36,39,76987
+"400554365","November 23, 2014","4:25 PM ET","Levi's Stadium","Santa Clara, CA ","WSH","SF",13,17,70799
+"400554366","December 20, 2014","4:30 PM ET","FedEx Field","Landover, MD ","PHI","WSH",24,27,78897
+"400554367","November 9, 2014","1:00 PM ET","M&T Bank Stadium","Baltimore, MD ","TEN","BAL",7,21,70914
+"400554368","November 30, 2014","4:05 PM ET","Georgia Dome","Atlanta, GA ","ARI","ATL",18,29,69557
+"400554369","November 23, 2014","8:30 PM ET","MetLife Stadium","East Rutherford, NJ ","DAL","NYG",31,28,80520
+"400554370","November 9, 2014","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","PIT","NYJ",13,20,78160
+"400554371","November 30, 2014","4:25 PM ET","Lambeau Field","Green Bay, WI ","NE","GB",21,26,78431
+"400554372","November 9, 2014","1:00 PM ET","Raymond James Stadium","Tampa, FL ","ATL","TB",27,17,57751
+"400554373","December 21, 2014","1:00 PM ET","Sun Life Stadium","Miami, FL ","MIN","MIA",35,37,66203
+"400554374","December 7, 2014","1:00 PM ET","Paul Brown Stadium","Cincinnati, OH ","PIT","CIN",42,21,65512
+"400554375","November 16, 2014","1:00 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","CIN","NO",27,10,73073
+"400554376","December 14, 2014","1:00 PM ET","Arrowhead Stadium","Kansas City, MO ","OAK","KC",13,31,72153
+"400554377","November 2, 2014","4:05 PM ET","Levi's Stadium","Santa Clara, CA ","STL","SF",13,10,70799
+"400554378","November 16, 2014","1:00 PM ET","FedEx Field","Landover, MD ","TB","WSH",27,7,77442
+"400554379","December 7, 2014","1:00 PM ET","FedEx Field","Landover, MD ","STL","WSH",24,0,71120
+"400554380","December 14, 2014","1:00 PM ET","Lucas Oil Stadium","Indianapolis, IN ","HOU","IND",10,17,65148
+"400554381","November 2, 2014","4:25 PM ET","Gillette Stadium","Foxboro, MA ","DEN","NE",21,43,68756
+"400554382","December 14, 2014","1:00 PM ET","M&T Bank Stadium","Baltimore, MD ","JAX","BAL",12,20,70801
+"400554383","November 16, 2014","1:00 PM ET","Edward Jones Dome","Saint Louis, MO ","DEN","STL",7,22,59401
+"400554384","December 7, 2014","1:00 PM ET","LP Field","Nashville, TN ","NYG","TEN",36,7,69143
+"400554385","November 2, 2014","4:25 PM ET","CenturyLink Field","Seattle, WA ","OAK","SEA",24,30,68337
+"400554386","December 14, 2014","1:00 PM ET","Ralph Wilson Stadium","Buffalo, NY ","GB","BUF",13,21,70214
+"400554387","November 16, 2014","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","SF","NYG",16,10,80352
+"400554388","December 7, 2014","1:00 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","CAR","NO",41,10,73006
+"400554389","November 2, 2014","8:30 PM ET","Heinz Field","Pittsburgh, PA ","BAL","PIT",23,43,63971
+"400554390","December 14, 2014","1:00 PM ET","Bank of America Stadium","Charlotte, NC ","TB","CAR",17,19,72842
+"400554391","November 16, 2014","4:05 PM ET","Qualcomm Stadium","San Diego, CA ","OAK","SD",6,13,66720
+"400554392","December 14, 2014","1:00 PM ET","FirstEnergy Stadium","Cleveland, OH ","CIN","CLE",30,0,67431
+"400554393","November 3, 2014","8:30 PM ET","MetLife Stadium","East Rutherford, NJ ","IND","NYG",40,24,77975
+"400554394","November 24, 2014","8:30 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","BAL","NO",34,27,73373
+"400554395","November 30, 2014","8:30 PM ET","Arrowhead Stadium","Kansas City, MO ","DEN","KC",29,16,76894
+"400554396","November 9, 2014","4:05 PM ET","O.co Coliseum","Oakland, CA ","DEN","OAK",41,17,54803
+"400554397","November 9, 2014","4:25 PM ET","U of Phoenix Stadium","Glendale, AZ ","STL","ARI",14,31,61363
+"400554398","December 21, 2014","1:00 PM ET","NRG Stadium","Houston, TX ","BAL","HOU",13,25,71771
+"400554399","December 1, 2014","8:30 PM ET","MetLife Stadium","East Rutherford, NJ ","MIA","NYJ",16,13,78160
+"400554400","November 9, 2014","4:25 PM ET","CenturyLink Field","Seattle, WA ","NYG","SEA",17,38,68352
+"400554401","December 21, 2014","1:00 PM ET","Soldier Field","Chicago, IL ","DET","CHI",20,14,61420
+"400554402","December 21, 2014","1:00 PM ET","Bank of America Stadium","Charlotte, NC ","CLE","CAR",13,17,73810
+"400554403","November 9, 2014","8:30 PM ET","Lambeau Field","Green Bay, WI ","CHI","GB",14,55,78292
+"400554404","December 28, 2014","4:25 PM ET","Georgia Dome","Atlanta, GA ","CAR","ATL",34,3,71015
+"400554405","December 28, 2014","1:00 PM ET","M&T Bank Stadium","Baltimore, MD ","CLE","BAL",10,20,71070
+"400554406","December 21, 2014","1:00 PM ET","Mercedes-Benz Superdome","New Orleans, LA ","ATL","NO",30,14,73164
+"400554407","December 28, 2014","1:00 PM ET","FedEx Field","Landover, MD ","DAL","WSH",44,17,80897
+"400554408","November 10, 2014","8:30 PM ET","Lincoln Financial Field","Philadelphia, PA ","CAR","PHI",21,45,69596
+"400554409","December 28, 2014","1:00 PM ET","LP Field","Nashville, TN ","IND","TEN",27,10,69143
+"400554410","December 21, 2014","1:00 PM ET","Raymond James Stadium","Tampa, FL ","GB","TB",20,3,64247
+"400554411","December 28, 2014","4:25 PM ET","Lambeau Field","Green Bay, WI ","DET","GB",20,30,78408
+"400554412","December 28, 2014","1:00 PM ET","NRG Stadium","Houston, TX ","JAX","HOU",17,23,71777
+"400554413","December 28, 2014","1:00 PM ET","Arrowhead Stadium","Kansas City, MO ","SD","KC",7,19,73952
+"400554414","November 16, 2014","4:25 PM ET","U of Phoenix Stadium","Glendale, AZ ","DET","ARI",6,14,62487
+"400554415","December 14, 2014","4:25 PM ET","Ford Field","Detroit, MI ","MIN","DET",14,16,62490
+"400554416","December 7, 2014","1:00 PM ET","TCF Bank Stadium","Minneapolis, MN ","NYJ","MIN",24,30,52152
+"400554417","November 16, 2014","8:30 PM ET","Lucas Oil Stadium","Indianapolis, IN ","NE","IND",42,20,66751
+"400554418","December 14, 2014","4:05 PM ET","LP Field","Nashville, TN ","NYJ","TEN",16,11,69143
+"400554419","December 7, 2014","1:00 PM ET","Sun Life Stadium","Miami, FL ","BAL","MIA",28,13,70244
+"400554420","December 14, 2014","4:05 PM ET","Qualcomm Stadium","San Diego, CA ","DEN","SD",22,10,68682
+"400554421","November 17, 2014","8:30 PM ET","LP Field","Nashville, TN ","PIT","TEN",27,24,69143
+"400554422","December 7, 2014","1:00 PM ET","FirstEnergy Stadium","Cleveland, OH ","IND","CLE",25,24,67431
+"400554423","December 14, 2014","4:25 PM ET","CenturyLink Field","Seattle, WA ","SF","SEA",7,17,68526
+"400554424","December 7, 2014","1:00 PM ET","Ford Field","Detroit, MI ","TB","DET",17,34,61489
+"400554425","December 14, 2014","8:30 PM ET","Lincoln Financial Field","Philadelphia, PA ","DAL","PHI",38,27,69596
+"400554426","December 7, 2014","1:00 PM ET","EverBank Field","Jacksonville, FL ","HOU","JAX",27,13,61070
+"400554427","December 15, 2014","8:30 PM ET","Soldier Field","Chicago, IL ","NO","CHI",31,15,60996
+"400554428","December 7, 2014","4:05 PM ET","Sports Authority Field at Mile High","Denver, CO ","BUF","DEN",17,24,76913
+"400554429","December 7, 2014","4:05 PM ET","U of Phoenix Stadium","Glendale, AZ ","KC","ARI",14,17,62387
+"400554430","December 7, 2014","4:25 PM ET","Lincoln Financial Field","Philadelphia, PA ","SEA","PHI",24,14,69596
+"400554431","December 7, 2014","4:25 PM ET","O.co Coliseum","Oakland, CA ","SF","OAK",13,24,55300
+"400554432","December 7, 2014","8:30 PM ET","Qualcomm Stadium","San Diego, CA ","NE","SD",23,14,68815
+"400554433","December 8, 2014","8:30 PM ET","Lambeau Field","Green Bay, WI ","ATL","GB",37,43,77512
+"400554434","December 21, 2014","1:00 PM ET","Heinz Field","Pittsburgh, PA ","KC","PIT",12,20,60865
+"400554435","December 28, 2014","1:00 PM ET","Sun Life Stadium","Miami, FL ","NYJ","MIA",37,24,70220
+"400554436","December 21, 2014","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","NE","NYJ",17,16,78160
+"400554437","December 28, 2014","1:00 PM ET","TCF Bank Stadium","Minneapolis, MN ","CHI","MIN",9,13,52364
+"400554438","December 28, 2014","1:00 PM ET","Gillette Stadium","Foxboro, MA ","BUF","NE",17,9,68756
+"400554439","December 21, 2014","4:05 PM ET","Edward Jones Dome","Saint Louis, MO ","NYG","STL",37,27,55851
+"400554440","December 28, 2014","1:00 PM ET","MetLife Stadium","East Rutherford, NJ ","PHI","NYG",34,26,79150
+"400554441","December 28, 2014","8:30 PM ET","Heinz Field","Pittsburgh, PA ","CIN","PIT",17,27,64697
+"400554442","December 21, 2014","4:25 PM ET","O.co Coliseum","Oakland, CA ","BUF","OAK",24,26,53436
+"400554443","December 28, 2014","1:00 PM ET","Raymond James Stadium","Tampa, FL ","NO","TB",23,20,59952
+"400554444","December 21, 2014","4:25 PM ET","AT&T Stadium","Arlington, TX ","IND","DAL",7,42,91899
+"400554445","December 28, 2014","4:25 PM ET","Sports Authority Field at Mile High","Denver, CO ","OAK","DEN",14,47,76929
+"400554446","December 28, 2014","4:25 PM ET","Levi's Stadium","Santa Clara, CA ","ARI","SF",17,20,70699
+"400554447","December 21, 2014","8:30 PM ET","U of Phoenix Stadium","Glendale, AZ ","SEA","ARI",35,6,63806
+"400554448","December 28, 2014","4:25 PM ET","CenturyLink Field","Seattle, WA ","STL","SEA",6,20,68453
+"400554449","December 22, 2014","8:30 PM ET","Paul Brown Stadium","Cincinnati, OH ","DEN","CIN",28,37,66107
+"400607990","November 24, 2014","7:00 PM ET","Ford Field","Detroit, MI ","NYJ","BUF",3,38,56044
