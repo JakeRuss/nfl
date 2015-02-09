@@ -1,0 +1,45 @@
+---
+title: "NFL ELO Rankings 2014"
+output: html_document
+---
+
+
+```{r, message=FALSE, echo=FALSE}
+
+library("dplyr")
+library("tidyr")
+library("magrittr")
+library("stargazer")
+
+# Load data
+elo <- read.csv(paste0("~/github/nfl/elo/nfl_elo_538.csv"), as.is = TRUE)
+
+week1 <- elo %>% 
+  filter(season == 2014, week == 1) %>%
+  select(team, rating)
+
+week17 <- elo %>% 
+  filter(season == 2014, week == 17) %>%
+  select(team, rating)
+
+```
+
+
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE, results='asis', fig.align='center'}
+stargazer(week1, title = "Week 1 Rankings", 
+                 type             = "html", 
+                 summary          = FALSE, 
+                 rownames         = FALSE,
+                 covariate.labels = c("Team", "ELO Rating"))
+```
+
+
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE, results='asis'}
+stargazer(week17, title = "Week 17 Rankings", 
+                 type             = "html", 
+                 summary          = FALSE, 
+                 rownames         = FALSE,
+                 covariate.labels = c("Team", "ELO Rating"))
+```
